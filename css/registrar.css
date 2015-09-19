@@ -1,0 +1,36 @@
+/* START OF CONTENT-STYLE-REGISTRAR */
+.white-content-block {
+	background-color: white;
+	padding: 20px 15px;
+}
+
+.padding-left-right {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.quarter-navigation {
+	list-style: none;
+	padding-left: 0px !important;
+}
+
+.quarter-navigation li a {
+	float: left;
+	padding: 10px 15px;
+	background-color: white;
+	margin-right: 5px;
+}
+
+.border-white-content {
+	border: solid 2px #252525;
+	border-radius: 3px;
+	padding: 20px 15px;
+	margin-bottom: 20px;
+}
+
+.input-label {
+	list-style: none;
+	padding-left: 15px !important;
+}
+
+/* END OF CONTENT-STYLE-TEACHER */
